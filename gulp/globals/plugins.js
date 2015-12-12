@@ -1,0 +1,23 @@
+module.exports = {
+	autoprefixer: require('gulp-autoprefixer'),
+	babel: require('gulp-babel'),
+	concat: require('gulp-concat'),
+	continuousConcat: require('gulp-continuous-concat'),
+	debug: require('gulp-debug'),
+	filter: require('gulp-filter'),
+	htmlmin: require('gulp-htmlmin'),
+	imagemin: require('gulp-imagemin'),
+	imageminPngQuant: require('imagemin-pngquant'),
+	minifyCss: require('gulp-minify-css'),
+	newer: require('gulp-newer'),
+	notify: require('gulp-notify'),
+	order: require('gulp-order'),
+	plumber: require('gulp-plumber'),
+	print: require('gulp-print'),
+	rename: require('gulp-rename'),
+	sass: require('gulp-sass'),
+	sourcemaps: require('gulp-sourcemaps'),
+	stripDebug: require('gulp-strip-debug'),
+	synchronize: require('gulp-sync')(require('gulp')),
+	uglify: require('gulp-uglify')
+};

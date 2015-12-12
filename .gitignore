@@ -1,0 +1,20 @@
+## Project Files ##
+~res
+
+## Bower ##
+bower_components
+
+## Gulp ##
+gulp/globals/machine-address.*
+
+## Node ##
+node_modules
+
+## Public ##
+public
+
+## Misc ##
+.DS_Store
+[Tt]humbs.db
+*.dmp
+._*

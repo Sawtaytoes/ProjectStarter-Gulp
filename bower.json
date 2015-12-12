@@ -1,0 +1,9 @@
+{
+  "name": "Pulsen Website",
+  "version": "0.0.0",
+  "dependencies": {
+    "font-awesome": "",
+    "foundation": "",
+    "slick.js": ""
+  }
+}
