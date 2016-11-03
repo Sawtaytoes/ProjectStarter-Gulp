@@ -1,4 +1,15 @@
-This is a project starter template when using Gulp. It's got a rough outline and can be used with either JavaScript or CoffeeScript, but not both.
+This is a project starter template when using Gulp. It's got a rough outline and can be used with either JavaScript or CoffeeScript.
+
+This comes with some basics already setup for you such as:
+- CSS *(Sass compile and minification)*
+- Fonts *(Copy)*
+- Images *(Minification)*
+- JavaScript *(Babel transforms and minification)*
+- JSON *(Copy)*
+- Laravel-Blade *(Copy)*
+- PHP *(Copy)*
+
+You can add your own by putting a new file in `gulp/tasks`, copying one of the existing examples, and modifying it to work in your use case.
 
 ## Prerequisites
 
