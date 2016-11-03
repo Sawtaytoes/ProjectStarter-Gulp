@@ -38,7 +38,6 @@ module.exports = do ->
 				# directory: __base
 				errLogToConsole: true
 				includePaths: [
-					paths.bower.datetimepicker.src
 					paths.bower.fontawesome.src + 'scss/'
 					paths.bower.foundation.src + 'scss/'
 					paths.bower.slick.src
